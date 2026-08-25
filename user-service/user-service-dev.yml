@@ -1,3 +1,3 @@
 spring:
   application:
-    name: kuch-bhi
+    name: user-service-dev
