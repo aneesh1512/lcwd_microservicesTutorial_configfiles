@@ -1,3 +1,2 @@
-spring:
-  application:
-    name: some-service
+server:
+  port: 8888
